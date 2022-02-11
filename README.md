@@ -11,6 +11,7 @@ Probably a good starting point to get acquainted with the basic Linux Kernel DVB
 There is only one Sourcefile and you can build easy like this: 
  
 cc DVBdemo.c -o dvb   (or whatever name suits you) 
+
 Then run it:  ./dvb 
 
 There are no parameters as everything is hardcoded for simplicity. 
