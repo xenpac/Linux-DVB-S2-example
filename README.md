@@ -1,6 +1,6 @@
 # Linux-DVB-S2 Example
 
-This is just a quick example of using the Linux DVB API to access a connected sat-tuner. 
+This is just a quick example of using the Linux DVB API to access a connected sat-tuner. (sat-receiver, dvb-adapter, dvb-s adapter, dvb-s2 tuner STB ...) 
 
 It is very basic but shows how to open, tune and get status from your tuner device. 
 
