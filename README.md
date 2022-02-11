@@ -23,3 +23,5 @@ and, of corse, your sat-tuner is connected to linux dvb driver.
 
 If everything runs well, RTL Teletext data is saved in a file named "ttdata.bin" . 
 
+Have fun, xenpac ;)
+
