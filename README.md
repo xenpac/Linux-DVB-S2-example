@@ -17,7 +17,9 @@ Then run it:  ./dvb
 There are no parameters as everything is hardcoded for simplicity. 
 
 It assumes you have your Sat-Tuner connected via LNB to the Astra satellite. 
+ 
+and, of corse, your sat-tuner is connected to linux dvb driver. 
+
 
 If everything runs well, RTL Teletext data is saved in a file named "ttdata.bin" . 
 
-and, of corse, your sat-tuner is connected to linux dvb driver. 
